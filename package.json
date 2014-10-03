@@ -1,0 +1,21 @@
+{
+  "name": "pz-logger",
+  "version": "0.0.1",
+  "description": "npm logger",
+  "main": "pz-logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlilly/pz-logger.git"
+  },
+  "dependencies": {
+    "pz-stringutils": "latest",
+    "fs": "latest",
+    "moment": "latest",
+    "underscore": "latest"
+  },
+  "author": "dave lilly",
+  "license": "BSD-2-Clause"
+}
