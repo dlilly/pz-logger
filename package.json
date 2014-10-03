@@ -13,8 +13,8 @@
   "dependencies": {
     "pz-stringutils": "latest",
     "fs": "latest",
-    "moment": "latest",
-    "underscore": "latest"
+    "moment"              : ">2.0.0",
+    "underscore"          : ">=1.7.0"
   },
   "author": "dave lilly",
   "license": "BSD-2-Clause"
